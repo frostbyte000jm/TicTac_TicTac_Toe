@@ -59,7 +59,7 @@ namespace TicTac_TicTac_Toe
         /// </summary>
         /// <param name="sender">The Button that was clicked</param>
         /// <param name="e">The events of the click</param>
-        private void Button0_0_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
             if(doGameOver)
             {
@@ -72,6 +72,27 @@ namespace TicTac_TicTac_Toe
             var column = Grid.GetColumn(button);
             var row = Grid.GetRow(button);
 
+            var index = (row * 3) + column;
+
+            if (arrResults[index] != MarkType.Free)
+                return;
+
+            arrResults[index] = doPlayer1Turn ? MarkType.Xs : MarkType.Ohs;
+
+            button.Content = doPlayer1Turn ? "X" : "O";
+
+            button.Foreground = !doPlayer1Turn ? Brushes.Red: Brushes.Blue;
+
+            //flip the value
+            doPlayer1Turn ^= true;
+
         }
+
+        private void CheckForWinner()
+        {
+
+        }
+
+   
     }
 }
