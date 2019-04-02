@@ -13,3 +13,18 @@ C:\Users\jmartin\OneDrive - Wolters Kluwer\apps\VSCode\TicTac_TicTac_Toe\TicTac_
 C:\Users\jmartin\OneDrive - Wolters Kluwer\apps\VSCode\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.csproj.CoreCompileInputs.cache
 C:\Users\jmartin\OneDrive - Wolters Kluwer\apps\VSCode\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.exe
 C:\Users\jmartin\OneDrive - Wolters Kluwer\apps\VSCode\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.pdb
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.csprojAssemblyReference.cache
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\MainWindow.g.cs
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\App.g.cs
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe_MarkupCompile.cache
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe_MarkupCompile.lref
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.exe
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.pdb
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\bin\Debug\TicTac_TicTac_Toe.exe.config
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\bin\Debug\TicTac_TicTac_Toe.exe
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\bin\Debug\TicTac_TicTac_Toe.pdb
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\MainWindow.baml
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.g.resources
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.Properties.Resources.resources
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.csproj.GenerateResource.cache
+C:\$VLC\TicTac_TicTac_Toe\TicTac_TicTac_Toe\obj\Debug\TicTac_TicTac_Toe.csproj.CoreCompileInputs.cache

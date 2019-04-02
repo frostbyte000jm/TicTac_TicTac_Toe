@@ -11,7 +11,7 @@ namespace TicTac_TicTac_Toe
     /// </summary>
     public enum MarkType
     {
-        Free,
+        Blank,
         Ohs,
         Xs
     }
