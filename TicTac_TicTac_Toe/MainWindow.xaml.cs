@@ -45,7 +45,12 @@ namespace TicTac_TicTac_Toe
 
             doPlayer1Turn = true;
 
-            Container.Children.Cast<Button>().ToList().ForEach(button =>
+            var buttns = Container.Children.OfType<Button>().ToList();
+           
+            /*
+             * What i need to do is gather up the buttons into a list. Then make a formula to see when there is a winner. 
+            */
+            buttns.ForEach(button =>
             {
                 button.Content = string.Empty;
                 button.Background = Brushes.White;
